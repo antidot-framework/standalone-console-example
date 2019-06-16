@@ -1,5 +1,8 @@
 # Standalone Console App Example
 
+This project is a proof of concept of using [Antidot Framework Cli](https://github.com/antidot-framework/antidot-cli)
+ as a standalone component of the framework.
+
 ## Install
 
 Clone the repository and install dependencies with composer
