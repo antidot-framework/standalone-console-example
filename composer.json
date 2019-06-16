@@ -1,6 +1,6 @@
 {
-    "name": "kpicaza/console-example",
-    "description": "Antidot framework console project example",
+    "name": "antidot-fw/standalone-console-example",
+    "description": "Antidot framework standalone console project example",
     "type": "project",
     "require": {
         "antidot-fw/cli": "dev-master",
